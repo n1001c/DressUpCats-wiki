@@ -1,6 +1,6 @@
 # Dress Up Cats Wiki
 
-The wiki and bug tracker of **Dress Up Cats**, a Minecraft (NeoForge 26.3) mod for dressing up your cats.
+The wiki and bug tracker of **Dress Up Cats**, a Minecraft mod (NeoForge and Fabric, 26.1.2 to 26.3) for dressing up your cats.
 
 - Wiki: https://n1001c.github.io/DressUpCats-wiki/
 - Bug reports and ideas: [Issues](https://github.com/n1001c/DressUpCats-wiki/issues) (English or Japanese)
